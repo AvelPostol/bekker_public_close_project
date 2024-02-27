@@ -1,0 +1,9 @@
+<?php $array = array (
+  0 => 'INSERT INTO bb_log (TIMEUPDATE,ID_ORDER) VALUES (\'2024-02-23T18:39:38.035404\',\'123155\')',
+);<?php $array = array (
+  0 => 'INSERT INTO bb_log (TIMEUPDATE,ID_ORDER) VALUES (\'2024-02-23T18:40:42.59086\',\'123139\')',
+);<?php $array = array (
+  0 => 'INSERT INTO bb_log (TIMEUPDATE,ID_ORDER) VALUES (\'2024-02-23T18:39:38.131502\',\'122986\')',
+);<?php $array = array (
+  0 => 'INSERT INTO bb_log (TIMEUPDATE,ID_ORDER) VALUES (\'2024-02-23T18:40:42.711007\',\'121684\')',
+);

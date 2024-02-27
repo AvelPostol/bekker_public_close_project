@@ -1,0 +1,3 @@
+<?php $array = array (
+  0 => 'INSERT INTO bb_log_doknumer_deff (TIMEUPDATE,ID_ORDER	,ARTICLE,NUMER_DOGOVOR,DATE_CREATE,FIO,ADRESS,PHONE) VALUES (\'2024-02-24T09:14:58.12805\',\'123424\',\'RD\',\'RD0045-1\',\'2024-02-23T09:00:17.596\',\'Кирошка Зинаида Михайловна\',\'Первомайская д. 28\',\'\')',
+);

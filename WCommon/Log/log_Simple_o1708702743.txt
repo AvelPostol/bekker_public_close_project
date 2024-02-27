@@ -1,0 +1,3 @@
+<?php $array = array (
+  0 => 'INSERT INTO bb_log (TIMEUPDATE,ID_ORDER) VALUES (\'2024-02-23T18:38:44.306719\',\'123111\')',
+);

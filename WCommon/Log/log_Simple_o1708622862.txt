@@ -1,0 +1,9 @@
+<?php $array = array (
+  0 => 
+  array (
+    'deal' => '652589',
+    'user' => '37',
+    'groupy' => 'DKI',
+    'numer' => '017',
+  ),
+);

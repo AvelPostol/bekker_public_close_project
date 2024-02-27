@@ -1,0 +1,3 @@
+<?php $array = array (
+  0 => 'INSERT INTO history_deal_numer_test (deal,user,groupy,numer) VALUES (\'504096\',\'116\',\'KM\',\'0068\')',
+);

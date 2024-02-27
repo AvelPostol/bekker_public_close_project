@@ -1,0 +1,28 @@
+<?php $array = array (
+  'меняем стадию на ' => 
+  array (
+    'entityId' => NULL,
+    'fields' => 
+    array (
+      'UF_CRM_1693643868590' => 2242,
+    ),
+  ),
+);<?php $array = array (
+  'меняем стадию на ' => 
+  array (
+    'entityId' => NULL,
+    'fields' => 
+    array (
+      'UF_CRM_1693643868590' => 2242,
+    ),
+  ),
+);<?php $array = array (
+  'меняем стадию на ' => 
+  array (
+    'entityId' => NULL,
+    'fields' => 
+    array (
+      'UF_CRM_1693643868590' => 2242,
+    ),
+  ),
+);
